@@ -1,16 +1,14 @@
-### Hi there 👋
+[![Mohab's GitHub Banner](./assets/header.png)](https://twitter.com/mohab_akram)
 
-<!--
-**mohapakram/mohapakram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/mohab_akram)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mohabakram/)
 
-Here are some ideas to get you started:
+### About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- BLOG-POST-LIST:START -->
+Dedicated, helpful, and principled problem solver who can be relied on to envision, plan, and carry out complex projects for humanitarian causes.
+<!-- BLOG-POST-LIST:END --> 
+
+[![Mohab's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohapakram)](https://github.com/mohapakram)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohapakram&layout=compact)
