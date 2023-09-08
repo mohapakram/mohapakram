@@ -1,6 +1,6 @@
 [![Mohab's GitHub Banner](./assets/header.png)](https://twitter.com/mohab_akram)
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/mohab_akram)
+![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)(https://www.upwork.com/freelancers/~019311866e360cc8ee)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mohabakram/)
 
 ### About me
