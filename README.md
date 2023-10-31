@@ -4,7 +4,7 @@
 ### About me
 
 <!-- BLOG-POST-LIST:START -->
-Dedicated, helpful, and principled problem solver who can be relied on to envision, plan, and carry out complex projects for humanitarian causes.
+I am a skilled and experienced software engineer with expertise in front-end development using React, React Native, and Redux. I have a strong background in improving performance, readability, and usability of complex React components. With a passion for clean and efficient code, I have successfully established responsive web design standards and developed internal tools that enhance productivity. Additionally, I am proficient in back-end technologies such as Node.js and MongoDB, and have experience working with GraphQL and Docker. With a proven track record of problem-solving and a dedication to continuous learning, I am confident in my ability to contribute to any development team.
 <!-- BLOG-POST-LIST:END --> 
 
 [![Mohab's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohapakram)](https://github.com/mohapakram)
