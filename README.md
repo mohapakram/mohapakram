@@ -4,7 +4,7 @@
 ### About me
 
 <!-- BLOG-POST-LIST:START -->
-I am a skilled and experienced software engineer with expertise in front-end development using React, React Native, and Redux. I have a strong background in improving performance, readability, and usability of complex React components. With a passion for clean and efficient code, I have successfully established responsive web design standards and developed internal tools that enhance productivity. Additionally, I am proficient in back-end technologies such as Node.js and MongoDB, and have experience working with GraphQL and Docker. With a proven track record of problem-solving and a dedication to continuous learning, I am confident in my ability to contribute to any development team.
+Experienced software engineer specializing in React front-end development with a focus on enhancing performance and usability. Proficient in back-end technologies, including Node.js and MongoDB, and familiar with Docker and GraphQL. Committed to continuous learning and problem- solving, I bring expertise in various technologies, demonstrating effectiveness as a quick problem solver. I write clean, understandable code and have experience working with different coding standards, facilitating seamless integration into diverse development environments.
 <!-- BLOG-POST-LIST:END --> 
 
 [![Mohab's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohapakram)](https://github.com/mohapakram)
