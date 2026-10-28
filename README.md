@@ -6,7 +6,3 @@
 <!-- BLOG-POST-LIST:START -->
 Experienced software engineer specializing in React front-end development with a focus on enhancing performance and usability. Proficient in back-end technologies, including Node.js and MongoDB, and familiar with Docker and GraphQL. Committed to continuous learning and problem- solving, I bring expertise in various technologies, demonstrating effectiveness as a quick problem solver. I write clean, understandable code and have experience working with different coding standards, facilitating seamless integration into diverse development environments.
 <!-- BLOG-POST-LIST:END --> 
-
-[![Mohab's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohapakram)](https://github.com/mohapakram)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohapakram&layout=compact)
